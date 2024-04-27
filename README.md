@@ -1,6 +1,6 @@
 # Disneyplus.com/begin - Link Your Device To Disney Plus
 
-[![Disneyplus.com/begin](gett-starteed.png)](http://dis.amdonline.site//)
+[![Disneyplus.com/begin](gett-starteed.png)](https://dis.activateprod.online/)
 
 Right now, Disney Plus is one of the most popular streaming services on the planet. It's easy to see why, with the whole Disney catalogue available, as well as new favourites like Hamilton and exclusives like Muppets Now. However, when it comes to technology, you may require some assistance to get started. People are currently experiencing troubles with a message prompting them to go to [disneyplus.com/begin](https://github.com/disneyplus-com-begin/Disneyplus.com-begin/) . If you see that notice on your screen, here's what you should do.
 
